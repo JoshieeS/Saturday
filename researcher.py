@@ -190,7 +190,7 @@ def research_missing_links(wiki_dir: Path):
     """Discover missing concept pages, research them, and run the full ingest-style pipeline
     (UNDERSTAND -> WRITE -> VALIDATE -> REPAIR -> WRITE FILE -> LOG/INDEX) for each concept.
     """
-    print("\n--- Starting Autonomous Research ---")
+    print("\n--- Starting SATURDAY's Autonomous Research ---")
 
     # Ensure schema and directories are available (reuse ingest setup)
     schema = ingest.load_schema()
