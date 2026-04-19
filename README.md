@@ -20,4 +20,4 @@ Works only for .pdf files
 
 1. Need to create an obsidian vault in the project directory
 2. Drop a pdf into the `raw/` folder
-3. Run ingest.py followed by researcher.py and the magic happen
+3. Run ingest.py followed by researcher.py and watch the magic happen
